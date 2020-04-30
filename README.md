@@ -1,7 +1,7 @@
 What is QtumCash?
 -------------
 
-QtumCash is a decentralized blockchain project built on Bitcoin's UTXO model, with support for Ethereum Virtual Machine based smart contracts, and secured by a proof of stake consensus model. It achieves this through the revolutionary Account Abstraction Layer which allows the EVM to communicate with QtumCash's Bitcoin-like UTXO blockchain. For more general information about QtumCash as well as links to join our community, go to https://qtumcash.website
+QtumCash is a decentralized blockchain project built on Bitcoin's UTXO model, with support for Ethereum Virtual Machine based smart contracts, and secured by a proof of stake consensus model. It achieves this through the revolutionary Account Abstraction Layer which allows the EVM to communicate with QtumCash's Bitcoin-like UTXO blockchain. For more general information about QtumCash as well as links to join our community, go to https://qtumcash.org
 
 Welcome to the QtumCash Ignition Main Network. This is the main network where the tokens hold value and should be guarded very carefully. If you are testing the network, or developing unstable software on QtumCash, we highly recommend using either testnet or regtest mode. 
 
@@ -28,17 +28,7 @@ Basic usage resources:
 * [Running QtumCash on Amazon AWS using QtumCash AMI](https://github.com/qtumcashproject/documents/tree/master/en/QtumCash-AWS)
 * [Encrypting and unlocking wallet](https://github.com/qtumcashproject/documents/tree/master/en/Encrypt-and-Unlock-QtumCash-Wallet)
 * [Testnet guide](https://github.com/qtumcashproject/documents/blob/master/en/Testnet-User-Guide.md)
-* [Block explorer](https://qtumcash.info), [Older explorer](https://explorer.qtumcash.org)
-
-
-Development resources:
-
-* [QtumCash Book - A Developer's Guide To QTH](http://book.qtumcash.site/en/)
-* [QtumCash contract usage](https://docs.qtumcash.site/en/QRC20-Token-Introduce.html)
-* [Deploying a custom token to QtumCash](https://blog.qtumcash.org/qtumcash-custom-token-walkthrough-467d725fa27d)
-* [QtumCashJS document](https://qtumcashproject.github.io/qtumcashjs-doc/)
-* [Smart contract ICO example](http://book.qtumcash.site/en/part3/ico.htm)
-* [Early example faucet contract](http://earlz.net/view/2017/06/30/2144/the-qtumcash-sparknet-faucet)
+* [Block explorer](www.qtumcash.website), [Older explorer](https://explorer.qtumcash.org)
 
 General Info about QtumCash:
 
@@ -100,34 +90,6 @@ User documentation https://github.com/qtumcashproject/documents/tree/master/en/Q
 A light wallet that supports the Ledger and Trezor hardware wallets and is based on the well-known Electrum wallet software. 
 
 Download: https://github.com/qtumcashproject/qtumcash-electrum/releases
-
-### iOS and Android Wallets
-
-These wallets run on mobile devices and synchronize quickly. 
-
-Android Download: https://play.google.com/store/apps/details?id=org.qtumcash.newwallet
-
-iOS Download: https://github.com/qtumcashproject/qtumcash-ios (open source, deprecated)
-
-### Ledger Chrome Wallet
-
-This light wallet runs in your Chrome browser as a browser extension. This wallet requires a Ledger device to use.
-
-How to install: https://ledger.zendesk.com/hc/en-us/articles/115003776913-How-to-install-and-use-QtumCash-with-Ledger
-
-
-### Community Resources
-
-Make sure to check out these resources as well for more information and to keep up to date with all the latest news about QtumCash. At least 1 developer is always around, so if you're developing on QtumCash and need help, we'd love to welcome you to our community.
-
-*	@QtumCash on Twitter https://twitter.com/qtumcash
-* QtumCash blog https://blog.qtumcash.org/
-*	QtumCash Telegram Group https://t.me/qtumcashofficial, other languages available
-* QtumCash Discord https://discordapp.com/invite/wRfmkQ9
-*	/r/QtumCash on Reddit https://www.reddit.com/r/QtumCash/
-*	QtumCash.org https://qtumcash.org
-*	QtumCash on Facebook https://www.facebook.com/QtumCashOfficial/
-*	QtumCash Forum https://forum.qtumcash.org
 
 ### QtumCash Smart Contract Limitations
 
